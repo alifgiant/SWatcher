@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--PUSHER APIS-->
+    <string name="pusher_apis">69e4a159f74bc330f6d4</string>
+    <string name="pusher_channel">test_channel</string>
+    <!--MAP APIS-->
+    <!--<string name="google-map-api">saa2</string>-->
+    <!--Domain Setting-->
+    <string name="default_domain">streetwatcher.au-syd.mybluemix.net</string>
+    <!--<string name="default_domain">testing.app/StreetWatcher/public</string>-->
+    <string name="login_url">/login_device</string>
+    <string name="alert_url">/alert</string>
+    <!--<string name="trigger">/login</string>-->
+
+    <!--post key-->
+    <string name="api_coordinate">coordinate</string>
+    <string name="api_location">location</string>
+    <string name="api_idDev">id-dev</string>
+    <string name="api_imgAlert">img-alert</string>
+
+    <!--Defaul Value-->
+    <string name="default_coordinate">-6.921200,107.608373</string>
+    <string name="default_location">PT PLN (Persero) </string>
+    <string name="default_id">23</string>
+</resources>

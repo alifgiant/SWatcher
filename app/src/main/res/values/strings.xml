@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Street Watcher</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_setup">DEVICE SETUP</string>
+    <string name="title_activity_status">STATUS</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="ID">DEVICE ID</string>
+
+
+    <!--APP text-->
+    <string name="username">DOMAIN.com</string>
+    <string name="password">AUTHENTICATION</string>
+    <string name="Login">LOGIN</string>
+    <string name="request_id">REQUEST ID</string>
+    <string name="request_location">GET LOCATION</string>
+    <string name="address">ADDRESS</string>
+    <string name="coordinate">COORDINATE</string>
+    <string name="connect">CONNECT</string>
+    <string name="disconnect">DISCONNECT</string>
+    <string name="status_active">ACTIVE</string>
+    <string name="status_NONACTIVE">NONACTIVE</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>
